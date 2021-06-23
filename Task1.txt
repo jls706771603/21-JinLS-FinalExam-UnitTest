@@ -1,0 +1,7 @@
+1. Compile the code and see the functionalities we have up to this point works perfectly fine
+2. Write test codes for the extended functionalities.
+3. Compile the code and see that the new included test cases fail.
+4. Start to implement all extended functionalities.
+5. Test with the code written.
+6. Debug and modify our code.
+7. Done!
